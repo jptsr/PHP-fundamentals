@@ -1,8 +1,8 @@
 # PHP-fundamentals
 
-**1- Set up & installation de LAMP**  
-**2- Exercices de drill sur les variables, conditions, tableaux, ...**  
-**3- Générateur d'excuses + création d'un formulaire**  
+**1- Set up & installation of XAMP**  
+**2- Drill exercises (variables, conditions, arrays, ...)**  
+**3- Apology generator and creation of a form**  
 
-Ensemble d'exercices servant à l'introduction du language PHP.  
-Délai \ 1 semaine.
+Bunch of exercises to introduce PHP langage.  
+Time limit \ 1 week.
